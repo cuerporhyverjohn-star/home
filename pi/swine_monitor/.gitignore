@@ -1,0 +1,12 @@
+# secrets
+.env
+
+# personal / private data
+subscribers.json
+pig_data.csv
+*.save
+
+# models and caches
+*.pkl
+__pycache__/
+*.pyc
